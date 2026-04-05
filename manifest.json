@@ -3,7 +3,7 @@
   "manifest_version": 1,
   "id": "veto.interstellar.war",
   "name": "星际战争基础包",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "author": "Miaoyww",
   "type": "faction",
   "preview": "assets/preview.png",
